@@ -1,4 +1,18 @@
-* {
-    font-family: monospace;
-    background-color: gray;
+html, body {
+    font-family: 'Fira Mono', monospace;
+}
+.title {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.description {
+    text-align: center;
+}
+.info {
+    font-family: 'Fira Mono', monospace;
+    text-align: center;
+    text-decoration: none;
+}
+.details {
+    text-align: center;
 }
