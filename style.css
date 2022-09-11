@@ -5,25 +5,21 @@ html, body {
 }
 .title {
     border-radius: 5px;
-    background-color: darkcyan;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .description {
     border-radius: 5px;
-    background-color: darkcyan;
     text-align: center;
 }
 .info {
     border-radius: 5px;
-    background-color: darkcyan;
     font-family: 'Fira Mono', monospace;
     text-align: center;
     text-decoration: none;
 }
 .details {
     border-radius: 5px;
-    background-color: darkcyan;
     text-decoration: none;
     text-align: center;
 }
