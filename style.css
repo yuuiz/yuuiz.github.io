@@ -1,25 +1,4 @@
-html, body {
-    background-color: white;
-    font-family: 'Fira Mono', monospace;
-    text-decoration: none;
-}
-.title {
-    border-radius: 5px;
-    text-align: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-.description {
-    border-radius: 5px;
-    text-align: center;
-}
-.info {
-    border-radius: 5px;
-    font-family: 'Fira Mono', monospace;
-    text-align: center;
-    text-decoration: none;
-}
-.details {
-    border-radius: 5px;
-    text-decoration: none;
-    text-align: center;
+* {
+    background-color: #404040;
+    font: 'Comic sans'
 }
